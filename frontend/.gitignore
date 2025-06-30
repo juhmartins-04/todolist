@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+.env
+
+# Build
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# React
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/.env
+backend/node_modules/
+
+# Coverage
+coverage/
